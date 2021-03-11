@@ -9,6 +9,7 @@ package cuentas;
 /**
  *
  * @author Javier
+ * Visto. Pedí el enlace al repositorio en el trabajo
  */
 public class CCuenta {
     private String nombre;
